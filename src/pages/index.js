@@ -30,7 +30,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            [Daru Okta Buana] | [475397]
+            Daru Okta Buana | 475397
           </h5>
         </div>
       </main>
